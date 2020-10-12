@@ -3,4 +3,4 @@ A Turing Machine created in the C - Language. Please enjoy and copy this code as
 
 ## Acknowledgments
 
-* Dan Schlegel - (programming languages at SUNY Oswego) instructor
+* Dan Schlegel - (Programming Languages at SUNY Oswego) instructor
